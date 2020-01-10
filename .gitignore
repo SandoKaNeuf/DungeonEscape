@@ -1,0 +1,13 @@
+*.apk
+Builds_webgl/
+Builds_android/
+Temp/
+obj/
+Library/
+Assets/StreamingAssets/
+AssetBundles/
+.vs/
+*.csproj
+Assets/JsonDotNet/Newtonsoft.Json.pdb.meta
+Assets/JsonDotNet/Newtonsoft.Json.pdb
+*.sln
